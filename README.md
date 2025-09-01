@@ -1,7 +1,7 @@
 # Hi there, I'm Malak Shalayel 👋
 
 ## About Me
-🎓 Computer Science Student  
+🎓 Software Engineer Student  
 📱 Flutter & Dart Developer  
 💻 Passionate about mobile app development and algorithms  
 🌱 Currently learning advanced mobile development patterns  
