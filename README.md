@@ -1,4 +1,4 @@
-# Hi 👋! My name is Malak Shalayel and I'm a FullStack Developer from Palestine 🇵🇸
+# Hi 👋! My name is Malak Shalayel and I'm a Mobile Developer from Palestine 🇵🇸
 
 ## About Me
 
@@ -9,10 +9,10 @@ Highly skilled Software Engineer with a strong background in **mobile and web de
 ## 🚀 Current Focus
 
 🔭 I'm currently working on **mobile applications with Flutter**  
-🤝 I'm looking to collaborate on **innovative mobile and web projects**  
-🌟 I'm looking for opportunities as a **professional full-stack developer**  
+🤝 I'm looking to collaborate on **innovative mobile**  
+🌟 I'm looking for opportunities as a **professional flutter developer**  
 🎓 I'm currently learning **React.js and advanced Flutter patterns**  
-💬 Ask me about **Flutter, Dart, Mobile Development, and UI/UX Design**
+💬 Ask me about **Flutter, Dart, Mobile Development...**
 
 ---
 
@@ -28,11 +28,7 @@ Highly skilled Software Engineer with a strong background in **mobile and web de
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Backend & Database
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Programming Languages
